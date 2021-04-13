@@ -35,7 +35,7 @@ I have implemented functionality for the bot to return the latest tweet from any
 I have implemented functionality for the bot to return a snippet from any Wikipedia page based on the user's quwery. Simple ask the bot "Wiki search X" where X is a topic on Wikipedia. For example, if you ask the bot "Wiki search icecream", it will return a snippet from that topic's Wikipedia page as well as a link to that Wikipedia page. You can also prompt this reponse by asking the same question in a couple different ways, like "inform me about X" or "i want to know more about X" among others.
 
 **![](https://i.imgur.com/QNRinRS.png)**
-**![](https://i.imgur.com/YiXmeNI.png)**
+**![](https://i.imgur.com/1zFfQTE.png)**
 
 ## Features
 
