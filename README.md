@@ -32,7 +32,7 @@ I have implemented functionality for the bot to return the latest tweet from any
 
 **Wikipedia API Integration**
 
-I have implemented functionality for the bot to return a snippet from any Wikipedia page based on the user's quwery. Simple ask the bot "Wiki search X" where X is a topic on Wikipedia. For example, if you ask the bot "Wiki search icecream", it will return a snippet from that topic's Wikipedia page as well as a link to that Wikipedia page. You can also prompt this reponse by asking the same question in a couple different ways, like "inform me about X" or "i want to know more about X" among others.
+I have implemented functionality for the bot to return the latest tweet from any specified user. Simply ask the bot "Show me the latest tweet from X'' where X is a Twitter username. For example, if you ask the bot "Show me the latest tweet from Jack'', it will return Twitter user Jack's latest tweet. You can also prompt this response by asking the same question in a couple different ways, like "latest tweet from X'' or "what did X tweet last" among others.
 
 **![](https://i.imgur.com/QNRinRS.png)**
 **![](https://i.imgur.com/1zFfQTE.png)**
