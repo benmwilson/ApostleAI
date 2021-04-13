@@ -213,7 +213,10 @@ function latestTweet(username, bot) {
 
 function wikiQuery(query, bot) {
   query = query.slice(0, -1);
-  query = query.replace(" ", "_");
+
+  for (let s = 0; s < 5; s++) {
+    query = query.replace(" ", "_");
+  }
 
   let response = {
     sender: bot.id,
